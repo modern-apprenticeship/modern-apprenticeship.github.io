@@ -1,0 +1,74 @@
+/* ------------------------------- Colors */
+/* ------------------------------- Buttons */
+/* ------------------------------- Typekits */
+/* --------------------------------------------- site header */
+.site-header {
+  background-image: url("/images/blur.jpg");
+  background-position: top center;
+  background-size: cover;
+  overflow: hidden;
+  margin-bottom: 40px; }
+  .site-header .site-title {
+    font-family: "freight-sans-pro", Helvetica, sans-serif;
+    font-weight: 300; }
+  .site-header .logo-wrap {
+    display: block;
+    margin: 10% auto 8% auto;
+    text-align: center; }
+  .site-header img {
+    width: 15%; }
+  .site-header .text-logo {
+    font-family: "freight-sans-pro", Helvetica, sans-serif;
+    font-weight: 300;
+    color: white;
+    font-size: 1.25em;
+    display: block;
+    text-transform: uppercase; }
+    .site-header .text-logo:hover {
+      text-decoration: none; }
+
+.site-title,
+.site-title:hover,
+.site-title:visited {
+  color: #333;
+  text-decoration: none; }
+
+.site-nav {
+  float: right;
+  font-family: "freight-sans-pro", Helvetica, sans-serif;
+  font-weight: 300; }
+
+.site-nav .menu-icon {
+  display: none; }
+
+.site-nav .page-link {
+  margin-left: 20px;
+  color: #727272;
+  letter-spacing: -.5px; }
+
+@media screen and (max-width: 700px) {
+  .logo-wrap {
+    margin: 40px auto !important; }
+
+  img {
+    width: 35% !important; } }
+/* --------------------------------------------- Navigation*/
+.navigation {
+  overflow: hidden;
+  text-align: center; }
+
+.nav {
+  overflow: hidden;
+  display: inline-block;
+  list-style: none; }
+  .nav li {
+    float: left; }
+    .nav li a {
+      font-family: "freight-sans-pro", Helvetica, sans-serif;
+      font-weight: 400;
+      display: block;
+      color: white;
+      text-transform: uppercase;
+      padding: 10px 15px; }
+      .nav li a:hover {
+        text-decoration: none; }

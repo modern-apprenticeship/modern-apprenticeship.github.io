@@ -1,0 +1,32 @@
+/* ------------------------------- Colors */
+/* ------------------------------- Buttons */
+/* ------------------------------- Typekits */
+form input[type='text'],
+form textarea {
+  font-family: "freight-sans-pro", Helvetica, sans-serif;
+  font-weight: 400;
+  border: 1px solid #999999;
+  font-size: 1em;
+  margin-bottom: 1.5em;
+  padding: 0.5em;
+  width: 100%; }
+form label {
+  font-family: "freight-sans-pro", Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 1.25em; }
+form input[type="submit"] {
+  font-family: "freight-sans-pro", Helvetica, sans-serif;
+  font-weight: 400;
+  background: #8a6584;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 2px solid #6d4f68;
+  border-radius: 2px;
+  color: white;
+  font-size: 1em;
+  padding: 10px 20px;
+  transition: all .1s ease-in; }
+  form input[type="submit"]:hover {
+    cursor: pointer;
+    background: #6d4f68; }

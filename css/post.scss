@@ -1,0 +1,95 @@
+---
+---
+
+@import 'mixins';
+
+$post-content-width: 85%;
+
+
+.single-post {
+  margin: 2em auto;
+  width: 70%;
+  max-width: 800px;
+  header {
+    margin: 0 auto 1em auto;
+    width: $post-content-width;
+  }
+  h1.post-title {
+    @include sans-serif-light;
+    font-style: normal;
+  }
+  .post-details {
+    @include sans-serif;
+    color: $red;
+    font-style: normal;
+  }
+  .post-content {
+    border-bottom: 1px solid $hairline;
+    padding-bottom: 1.5em;
+    h1, h2, h3, h4, h5, ul {
+      @include serif;
+      font-style: italic;
+      margin: 0.25em auto;
+      width: $post-content-width;
+    }
+    p {
+      color: $post-text;
+      font-size: 1.25em;
+      margin: 0 auto 1.25em auto;
+      width: $post-content-width;
+    }
+    figure {
+      background: white;
+      margin-bottom: 1.5em;
+      img {
+        border: 4px solid white;
+      }
+    }
+    figcaption {
+      color: #888;
+      font-size: 80%;
+      font-style: italic;
+      margin: 0 0 1em 0.5em;
+    }
+    ul {
+      padding-left: 1.5em;
+    }
+  }
+
+  footer.article-footer {
+    margin: 40px auto;
+    width: $post-content-width;
+  }
+  .post-shares {
+    overflow: hidden;
+    list-style: none;
+    li {
+      display: block;
+      float: left;
+      margin-right: 1.2em;
+    }
+    li.twitter {
+      margin: 0;
+    }
+    li.twitter,
+    li.google {
+      padding-top: 5px;
+    }
+  }
+}
+
+
+@media screen and (max-width: 700px) {
+  .single-post {
+    padding: 10px;
+    width: 100%;
+    header {
+      width: 100%;
+    }
+    .post-content {
+      h1, h2, h3, h4, h5, p {
+        width: 100%;
+      }
+    }
+  }
+}

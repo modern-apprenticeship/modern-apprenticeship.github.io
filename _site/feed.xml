@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modern Apprenticeship</title>
+    <description>Modern Apprenticeship blog by Paul Pagel</description>
+    <link>http://8thlight.github.io/</link>
+    <atom:link href="http://8thlight.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Why I Don&#39;t Machine Gun</title>
+        <description>&lt;p&gt;Over the weekend read an article on some random photo site about bad habits photographers make. I won&#39;t cite the article because when I went back to find it, it popped up word for word on 3 different sites so I have no idea who actually wrote it (thats a rant for another day). Anyway, one of the points was &#39;Luck Shooting&#39;, or spraying and praying as some photographers call it. It really got me thinking about how I shoot concerts and candid photography. So much of what I do relies on anticipating the perfect moment to capture, not just hammering the shutter button and hoping I get something useable.&lt;/p&gt;
+&lt;p&gt;A good photographer gets a sense of whats about to happen, your gut starts telling you to wait for the best possible moment, you just start knowing whats going about to unfold in front of your lens. In psychology getting to this point can be likened to the final stage of the &lt;a href=&quot;http://en.wikipedia.org/wiki/Four_stages_of_competence&quot;&gt;Four Stages of Competence&lt;/a&gt;. At first you don&#39;t recognize the deficit of knowledge regarding a skill or task, then realize that you don&#39;t know how to perform said task, moving into knowing but having to actively think about performing it, finally the task is performed without thinking - having become an expert.&lt;/p&gt;
+&lt;p&gt;It took me a long time to hone this skill. I first realized it was something I needed to work on when I would shoot candid photos and people would look really strange when they were talking or performing a physical activity. I progressed as a photographer and a few years later I was taking photos at a picnic of coworkers playing kickball, where I found myself talking through the motions, actively thinking about how they were going to wind up for the pitch, how their body would move, where the ball might go, etc. Now after shooting countless portraits, concerts, and talks I am to the point where I don&#39;t even think about it actively - at talks I wait for the speaker to gesticulate energetically and smile instead of capturing a boring photo of them at a podium mid-sentence. Portraits and headshots I always take a few frames before telling a joke so I can capture the best photo of the shoot right as their laughing is subsiding yet they are still smiling ear to ear. At concerts I am watching the bassist haul his guitar up on his knee as he shouts out to the crowd to my left I know he is going to look back my way in a second or two, his head quickly pivots and I snap two frames.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#39;/images/masons-dock.jpg&#39; /&gt;
+  &lt;figcaption&gt;Anticipate your shot, feel whats coming next&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;I honed this skill over years behind the lens. I listen to the beat of the drummer and feel when the big crescendo of the song is coming. Sometimes, especially with children, it has to be a split second decision as something magical happens. I try to talk to speakers before they go on to see if they will be entertaining or more reserved.&lt;/p&gt;
+&lt;p&gt;One of my all time favorite photos was taken so quickly but I knew instantly what I had got. My friends and I were out taking photos of the Bean in Millenium Park one fall evening. I was shooting some longer exposures to get a touch of motion blur to accentuate how busy the park was as the sun was starting to set. Out of nowhere a wedding party appeared just outside of the frame to my right - suddenly the bride and groom stepped into frame as the photographer was gathering everyone. There was a quick kiss but she was completely behind him. Had I started spraying at that moment I would have been looking down at the camera and missed what happened next. The groom took her hand and just as I locked focus on him he raised his arm with hers. I knew he was going to spin her, but she was still behind him. I paused a split second and as their arms completed the motion she twirled out from behind. I opened the shutter exactly once and I knew instantly that he was in focus but since I was dragging the shutter she was going to blur a bit capturing the spin perfectly. As soon as his hands were coming down the entire wedding party entered the scene completely blocking the happy couple. The window was less than a few seconds. I anticipated the shot, took it at the right moment and got exactly what I wanted.&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#39;/images/masons-dock.jpg&#39; /&gt;
+  &lt;figcaption&gt;I had one chance and the window was less than 2 seconds&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Machine gunning photos is bad photography with so many downsides. Your memory card is going to fill up really fast with crap images and while you are looking through the last ten you rattled off I guarantee you are missing the next great shot. If you are in a quiet environment like a wedding or conference where that shutter cranking away is going to distract and annoy a lot of people. If you practice and actively think about the shots you are going to take it is going to improve your photography. When you have to grind through actively thinking about timing, lighting, framing, and exposure, you will know it through and through and it will become second nature. You are going to stop firing off 10 photos then looking down to see if you got something. You&#39;ll pop off a shot or two and just know you got something great, and let me tell you, thats a great feeling.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Nov 2014 00:00:00 -0600</pubDate>
+        <link>http://8thlight.github.io/2014/11/10/why-i-dont-machine-gun/</link>
+        <guid isPermaLink="true">http://8thlight.github.io/2014/11/10/why-i-dont-machine-gun/</guid>
+      </item>
+    
+      <item>
+        <title>Three Short Sentences</title>
+        <description>&lt;h2 id=&quot;the-project&quot;&gt;The Project&lt;/h2&gt;
+
+&lt;p&gt;A few years ago, I was tasked with the migration of data across build, staging, and production environments. It was heavy with software to automate most of the tasks, but also heavy with process. Every project member would be affected, and it was important to come up with a solution that not only ensured 100 percent data integrity, but that kept the team happy, too.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/masons-dock.jpg&quot; alt=&quot;Test image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I was the technical lead on the project. I had a few days to prepare a plan and present it to the client’s project owners, so I got down to work. I mapped out every scenario. I listed the pros and cons of three different approaches, with detailed analysis for each.&lt;/p&gt;
+
+&lt;p&gt;I was confident that the project owners would take my recommendation. The project would be a huge success, and everyone would congratulate me on a job well done. I would deflect the praise to my team, of course, but everyone would really know how awesome I was and that it was my plan that got us there.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-big-day&quot;&gt;The Big Day&lt;/h2&gt;
+
+&lt;p&gt;The day came. Adam, the head project manager from my team, joined the call with the two client project managers, John and Steve. I reviewed the options, the pros and cons, provided the analysis, and pointed them to the appendices in case they had further questions. I waited silently for their approval and congratulated myself on finishing the meeting on time.&lt;/p&gt;
+
+&lt;p&gt;John spoke up first. “Well Mike, I’m not sure. This approach sounds complicated.”&lt;/p&gt;
+
+&lt;p&gt;“OK, well let me explain again about the benefits of this approach…”&lt;/p&gt;
+
+&lt;p&gt;This happened a few times. I kept going back to the data and the details.&lt;/p&gt;
+
+&lt;p&gt;John replied again, “Mike, I’m just not sure about this. I think we need a different solution.”&lt;/p&gt;
+
+&lt;p&gt;My heart rate started to rise. “This is definitely the way we should proceed. I’ve spoken with other teams, and we have the best approach possible.”&lt;/p&gt;
+
+&lt;p&gt;He was insistent. Exasperation crept into my voice. This was not going the way I expected.&lt;/p&gt;
+
+&lt;p&gt;At this point, Adam spoke up for the first time since saying hello at the start of the call.&lt;/p&gt;
+
+&lt;p&gt;“John. Look, you know this is going to be complicated. This is the way to go.”&lt;/p&gt;
+
+&lt;p&gt;I thought he was just making conversation to lighten the mood. To my total surprise, John responded:&lt;/p&gt;
+
+&lt;p&gt;“Well… OK.”&lt;/p&gt;
+
+&lt;p&gt;We ended the meeting and they accepted my plan. The project went on to be a success, of which I am still proud of to this day.&lt;/p&gt;
+
+&lt;p&gt;I never did gloat about it, though. I knew what really happened—the entire project almost came off the rails, and Adam kept it moving forward with three short sentences.&lt;/p&gt;
+
+&lt;h2 id=&quot;trust-through-relationships&quot;&gt;Trust Through Relationships&lt;/h2&gt;
+
+&lt;p&gt;After that call, I realized that it was not just three short sentences that saved the project. It was the relationship that Adam had with John and Steve. John trusted Adam. He knew that if Adam said it was the right thing to do, it was the right thing to do.&lt;/p&gt;
+
+&lt;p&gt;John did not trust me, or my data. It was more important to him to have faith in the person presenting the plan than to trust the plan itself.&lt;/p&gt;
+
+&lt;p&gt;Where I went wrong was that I was communicating to convince myself, not the person whom I needed to convince. Where I needed data to trust in the plan, his personality was such that without a strong personal connection, he didn’t care what was being said.&lt;/p&gt;
+
+&lt;p&gt;I started observing Adam. When I would just skip over the chit chat and get down to the details, he always made sure to ask about someone’s family. He genuinely cared about the other person, and that caring was recognized and returned by that person.&lt;/p&gt;
+
+&lt;p&gt;Through his actions, Adam showed that he listened and heard what the other people had to say about the most important parts of their lives. This helped him earn the trust that we needed to take the occasional leap of faith and make a big project succeed.&lt;/p&gt;
+
+&lt;h2 id=&quot;adapting-your-communication-style&quot;&gt;Adapting Your Communication Style&lt;/h2&gt;
+
+&lt;p&gt;At a certain point in any reasonably sized software project with numerous stakeholders, users, and developers, a critical decision will need to be made. This decision will be made without all of the information available. The project stakeholders need to trust the people they work with to recommend the right plan, to do the right thing.&lt;/p&gt;
+
+&lt;p&gt;One way to build trust is to exhaustively research and present details that leave no doubt about your technical superiority. Depending on the person, that’s an effective approach.&lt;/p&gt;
+
+&lt;p&gt;Another way that is sometimes difficult for the introverts out there is not just demonstrating your expertise, but demonstrating that you can listen. Demonstrate that you actually hear what the person is saying, and that you empathize with it. This may not be a necessary skill when working in isolation, but once the pressure’s on and the business is looking for a plan and some answers, it’s invaluable.&lt;/p&gt;
+
+&lt;p&gt;This is not a call to change your personality. After years of adapting my communication style, I still have and happily embrace my introverted tendencies. However, the time I’ve spent improving in this area has led to better relationships with clients, co-workers, friends, and family.&lt;/p&gt;
+
+&lt;p&gt;There are many personality types, and while the data-driven style can take you far, it rarely leads to success entirely on its own. If you consider yourself the data-driven type, don’t wall yourself off from building these relationships. It can have a profound positive effect on both your career and your personal success.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 05 Nov 2014 00:00:00 -0600</pubDate>
+        <link>http://8thlight.github.io/featured/2014/11/05/three-short-sentences/</link>
+        <guid isPermaLink="true">http://8thlight.github.io/featured/2014/11/05/three-short-sentences/</guid>
+      </item>
+    
+      <item>
+        <title>Mistaking Encapsulation for Abstraction</title>
+        <description>&lt;p&gt;“Abstract” is a commonly used word in software. I hear it a few times every day.
+&lt;em&gt;“Can we make an abstraction around this?” “Let’s move this method out to abstract it away.”&lt;/em&gt;
+But, what are we really doing when we create an “abstraction” or when we “abstract”?
+Are we actually doing what we think we’re doing? What do these terms actually
+mean, and are we using them correctly?&lt;/p&gt;
+
+&lt;p&gt;I’d argue we, including myself, use them too often, and often incorrectly. To create an abstraction, as explained
+by means to draw away,
+pull apart, or, to use his signature term, decomplect. To truly abstract things away in our
+programs is an act that disentangles the complexity of our software, and further separates the
+&lt;em&gt;who&lt;/em&gt; from the &lt;em&gt;what&lt;/em&gt;, &lt;em&gt;when&lt;/em&gt;, &lt;em&gt;where&lt;/em&gt;, and &lt;em&gt;why&lt;/em&gt;. Abstraction should not be confused with code
+organization and a mere hiding of complexity. Abstraction’s goal is simplicity, not ease of use.&lt;/p&gt;
+
+&lt;p&gt;Hindering that goal is the fact that abstraction is commonly confused with encapsulation. If we come upon a complicated
+class, we frequently just move some logic out, hide it in another class, and call it “abstracted.”
+However, this usually doesn’t result in us taking any steps to reduce the complexity of these
+two classes that we now have. Changing the way some code is encapsulated might be a great way to hide behavior or make it easier
+to use or re-use, but moving this code around has only hidden the complexity in a different place rather than
+contributing to its simplicity.&lt;/p&gt;
+
+&lt;p&gt;For example, consider a simple method in a Rails app:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;ruby
+class PostController &amp;lt; ApplicationController
+  def top_comments
+    comments = Post.find(post_id).comments.where(
+      # complex sql
+    )
+    render :show_comments, locals: { comments: comments }
+  end
+end
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;One might stumble upon this in an existing codebase and say, “Let’s abstract away that query
+logic from the controller.” So you may end up with something like this:&lt;/p&gt;
+
+&lt;p&gt;```ruby
+class Post &amp;lt; ActiveRecord::Base
+  def most_recent_upvoted_comments
+    comments.where(
+      # complex sql
+    )
+  end
+end&lt;/p&gt;
+
+&lt;p&gt;class PostController &amp;lt; ApplicationController
+  def top_comments
+    comments = Post.find(post_id).most_recent_upvoted_comments
+    render :show_comments, locals: { comments: comments }
+  end
+end
+```&lt;/p&gt;
+
+&lt;p&gt;Voila! We’ve abstracted our query to the &lt;code&gt;most_recent_upvoted_comments&lt;/code&gt; method. Or, so we think.
+Later, someone else comes along and says, “Why does the model have so many queries? Let’s abstract the
+query logic away from the model.” So our query now moves somewhere else:&lt;/p&gt;
+
+&lt;p&gt;```ruby
+class CommentQuery
+  def most_recent_upvoted_comments_for_post(post_id)
+    Comment.where(
+      # complex sql
+    )
+  end
+end&lt;/p&gt;
+
+&lt;p&gt;class PostController &amp;lt; ApplicationController
+  def top_comments
+    query = CommentQuery.new
+    comments = query.most_recent_upvoted_comments_for_post(post_id)
+    render :show_comments, locals: { comments: comments }
+  end
+end
+```&lt;/p&gt;
+
+&lt;p&gt;So much abstraction going on! This codebase must be awesome!
+Well, let’s take a look at whether what we’re doing is actually abstraction. Have either of these refactorings
+simplified the complexity of our software? I don’t think so. Rather, this just shifted the encapsulation of this
+logic from one class to another. We’ve simply moved a complex problem—the conflating of our domain model Comment
+with our database and SQL logic—from place to place. This change in encapsulation might still be beneficial
+from an ease of use standpoint, but we haven’t solved our complexity problem. The real abstraction to be made
+here is separating the &lt;em&gt;what&lt;/em&gt;—our domain object, a Comment—from &lt;em&gt;how&lt;/em&gt; it is stored and found. In this
+specific example, when we’re working with ActiveRecord, this combination is just a reality that we’ve come to accept.&lt;/p&gt;
+
+&lt;p&gt;So, what might an actual abstraction around this problem look like? Well, to borrow another heuristic from
+Hickey, making things simpler usually necessitates more things—more classes, or modules, or namespaces that each
+do one simple thing. We want to “decomplect” our codebase by abstracting complex operations to smaller, simpler,
+more composable pieces. In our example, we can start by separating how a Comment is represented in our code
+from how it is stored:&lt;/p&gt;
+
+&lt;p&gt;```ruby
+class Comment
+  attr_reader :post_id :text&lt;/p&gt;
+
+&lt;p&gt;def initialize(attributes)
+    @post_id = attributes[:post_id]
+    @text = attributes[:text]
+  end
+end&lt;/p&gt;
+
+&lt;p&gt;class CommentRepository
+  def most_recent_upvoted(filter = {})
+    results = db_connection.select(:post_id, :text)
+                           .from(:comments)
+                           .where(
+      # complex sql
+    )
+    results.map { |result| Comment.new(result) }
+  end
+end&lt;/p&gt;
+
+&lt;p&gt;class PostController &amp;lt; ApplicationController
+  def top_comments
+    repository = CommentRepository.new
+    comments = repository.most_recent_upvoted(post_id: post_id)
+    render :show_comments, locals: { comments: comments }
+  end
+end
+```&lt;/p&gt;
+
+&lt;p&gt;Now, we’ve eliminated the back and forth debate of, “Should this query go in the controller, or the model,
+or a query object?” The answer is now, clearly, none of the above. SQL and database logic for a Comment should
+be completely disentwined from the rest of our program.&lt;/p&gt;
+
+&lt;p&gt;After this abstraction, a Comment can just be a structure for our comment data, our controller can just
+ask the correct repository to give it some Comments, and the repository can truly abstract away our query logic.
+The repository is an abstraction on top of our data store that the controller can depend on to return
+Comment objects—&lt;em&gt;what&lt;/em&gt; it needs—without anything else having to worry about &lt;em&gt;how&lt;/em&gt; to get Comment objects.
+Contrast this with the previous examples, where anything wanting to get Comment objects also had to know
+the details of &lt;em&gt;how&lt;/em&gt; to get Comments. Now, the only way to get &lt;em&gt;what&lt;/em&gt; we want is to go through the
+repository, and the &lt;em&gt;how&lt;/em&gt; is simply the method defined on the repository. The details of &lt;em&gt;how&lt;/em&gt; could change
+without anything else caring about not being able to get Comments. We’ve disentangled the two
+knotted threads of a controller and model into three straight threads of controller, model, and data storage.&lt;/p&gt;
+
+&lt;p&gt;To further demonstrate some abstraction of the PostController, what if it also had a &lt;code&gt;create_comment&lt;/code&gt;
+method that used the CommentRepository:&lt;/p&gt;
+
+&lt;p&gt;```ruby
+class Comment
+  attr_reader :post_id :text&lt;/p&gt;
+
+&lt;p&gt;def initialize(attributes)
+    @post_id = attributes[:post_id]
+    @text = attributes[:text]
+  end&lt;/p&gt;
+
+&lt;p&gt;def valid?
+    text &amp;amp;&amp;amp; text.length.between(5, 100)
+  end
+end&lt;/p&gt;
+
+&lt;p&gt;class PostController &amp;lt; ApplicationController
+  def create_comment
+    commment = Comment.new(comment_params)
+    if comment.valid?
+      repository = CommentRepository.new
+      repository.save_comment(comment)
+      redirect_to comment
+    else
+      render :new, locals: { error: “Invalid comment” }
+    end
+  end
+end
+```&lt;/p&gt;
+
+&lt;p&gt;We may want to move our specific validation logic into some validation modules to hide the specifics
+of any validations on the Comment and to reduce the duplication between other models that use
+the same validations.&lt;/p&gt;
+
+&lt;p&gt;```ruby
+class Comment
+  include Validatable
+  extend Validations
+  validate_length :text, 5, 100&lt;/p&gt;
+
+&lt;p&gt;attr_reader :post_id :text&lt;/p&gt;
+
+&lt;p&gt;def initialize(attributes)
+    @post_id = attributes[:post_id]
+    @text = attributes[:text]
+  end
+end
+```&lt;/p&gt;
+
+&lt;p&gt;This is a great way to encapsulate our common validations. It’s really easy to share this
+logic between any other models in our code. But, we should be asking ourselves how we
+can abstract &lt;em&gt;why&lt;/em&gt; a Comment may not be valid from the model itself. Again, this requires
+more pieces:&lt;/p&gt;
+
+&lt;p&gt;```ruby
+class Comment
+  attr_reader :post_id :text&lt;/p&gt;
+
+&lt;p&gt;def initialize(attributes)
+    @post_id = attributes[:post_id]
+    @text = attributes[:text]
+  end
+end&lt;/p&gt;
+
+&lt;p&gt;class CommentForm
+  def initialize(params)
+    @params = params
+  end&lt;/p&gt;
+
+&lt;p&gt;def data
+    {
+      text: params[:text],
+      post_id: params[:post_id]
+    }
+  end&lt;/p&gt;
+
+&lt;p&gt;def valid?
+    params[:text] &amp;amp;&amp;amp;
+      params[:text].length.between?(5, 10)
+  end
+end&lt;/p&gt;
+
+&lt;p&gt;class PostController &amp;lt; ApplicationController
+  def create_comment
+    form = CommentForm.new(comment_params)
+    if form.valid?
+      repository = CommentRepository.new
+      comment = repository.create_comment(form.data)
+      redirect_to comment
+    else
+      render :new, locals: { error: “Invalid comment” }
+    end
+  end
+end
+```&lt;/p&gt;
+
+&lt;p&gt;Now neither the Comment nor the PostController knows &lt;em&gt;why&lt;/em&gt; a comment is valid or invalid.
+The &lt;em&gt;why&lt;/em&gt; is the responsibility of the form object.
+Is this as easy to use as the first example? Probably not—we have more objects now.
+But each piece is much simpler and can be composed in our &lt;code&gt;create_comment&lt;/code&gt; method
+in a way that does the same thing in a much less complected way. We could still encapsulate
+some shared validations to use in the CommentForm to make validation in other form objects
+easier, but it won’t be abstracting the &lt;em&gt;why&lt;/em&gt; any further from the form object.&lt;/p&gt;
+
+&lt;h3 id=&quot;reduce-incidental-complexity&quot;&gt;Reduce Incidental Complexity&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Einstein repeatedly argued that there must be simplified explanations of nature, because God is not
+capricious or arbitrary. No such faith comforts the software engineer. Much of the complexity he must
+master is arbitrary complexity, forced without rhyme or reason by the many human institutions and systems
+to which his interfaces must conform. These differ from interface to interface, and from time to time,
+not because of necessity but only because they were designed by different people, rather than by God.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;— Frederick P. Brooks, The Mythical Man-Month&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Next time you or I start to utter the “a” word, we should stop and think about whether we’re talking
+about separating our &lt;em&gt;whats&lt;/em&gt; and &lt;em&gt;whens&lt;/em&gt; from our &lt;em&gt;hows&lt;/em&gt; and &lt;em&gt;whys&lt;/em&gt;, or just shifting the encapsulation
+to make incidental complexity easier to manage. As Brooks wrote, we don’t have a software god to continuously untangle our
+messes, so let’s take care to use both of our tools—abstraction and encapsulation—appropriately for reducing
+complexity when we can, and making things easier while we can’t.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 04 Nov 2014 00:00:00 -0600</pubDate>
+        <link>http://8thlight.github.io/2014/11/04/mistaking-encapsulation-for-abstraction/</link>
+        <guid isPermaLink="true">http://8thlight.github.io/2014/11/04/mistaking-encapsulation-for-abstraction/</guid>
+      </item>
+    
+      <item>
+        <title>How To Be a Terrible Pair</title>
+        <description>&lt;p&gt;I heard you got some bad news: your team lead is forcing you to pair on all stories. This sounds grim, but I have a few tips for you. Follow this advice to become a terrible pair, and you’ll be back to working by yourself in no time.&lt;/p&gt;
+
+&lt;h2 id=&quot;warming-up&quot;&gt;Warming Up&lt;/h2&gt;
+
+&lt;p&gt;First, make sure your form is correct. Practice leaning back and folding your arms. Fire up your laptop’s camera to observe yourself—you want to emit the minimum amount of interest in what your pair is doing. Throw in a yawn or two.&lt;/p&gt;
+
+&lt;h2 id=&quot;preparing-the-workstation&quot;&gt;Preparing the Workstation&lt;/h2&gt;
+
+&lt;p&gt;Then, set up your workstation. Well, set up at your pair’s workstation. Adjust your chair so it leans back as far as possible. You don’t want to be too close to the keyboard when you start.&lt;/p&gt;
+
+&lt;p&gt;Keep your phone at the ready (you’ll need to keep an eye on Twitter), and make sure there is space for your own laptop (you’ll need this for watching videos on YouTube).&lt;/p&gt;
+
+&lt;p&gt;If you need extra space for your laptop, just get rid of the second mouse and keyboard! When you do need to write some code, you can just grab the keyboard from your pair anyway.&lt;/p&gt;
+
+&lt;h2 id=&quot;picking-a-path&quot;&gt;Picking a Path&lt;/h2&gt;
+
+&lt;p&gt;OK, we’re ready to start pairing! The intensity is high at the beginning, but don’t get too worried about effort—you’ll be able to coast for most of the process. Once you are set up at the workstation, it is important to express a very strong opinion on the architecture needed to implement the feature. Pick a side, preferably one in opposition to your pair, and argue vehemently for its merits.&lt;/p&gt;
+
+&lt;p&gt;If you win the argument, great! Pairing is really about winning. If you don’t, that’s actually OK too. When you miss your deadline, you can say “Well, &lt;em&gt;I&lt;/em&gt; wanted to do it another way, but we went down another path and lost a lot of time.”&lt;/p&gt;
+
+&lt;h2 id=&quot;writing-code&quot;&gt;Writing Code&lt;/h2&gt;
+
+&lt;p&gt;After all this, it’s time to code. Remember what you practiced—keep those arms crossed and let your pair do most of the work for the first few hours. If they try to interrupt you by asking for your opinion, respond with something like “What you’ve got sounds good,” or “I guess that could work.” Or, just grunt.&lt;/p&gt;
+
+&lt;p&gt;If your pair is struggling with what to do next, that means they are easily distracted. Quick, check Reddit!&lt;/p&gt;
+
+&lt;p&gt;Eventually you will have to write some code. Wait for an opportune time and grab the keyboard away from your pair. Move quickly and don’t explain yourself. When you do get questions, respond in a condescending manner: “You’ve never seen this before?” or “This is pretty basic stuff.” If they question your approach (especially if it’s valid), huff and take it personally. Questioning an abstract idea is about as bad as calling your dog ugly or insulting a relative.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve got some momentum, go ahead and take a break. If you want to be proactive, schedule meetings for the middle of the morning or the middle of the afternoon. Pairing is exhausting—it’s better to break it up into 60-90 minute chunks anyway.&lt;/p&gt;
+
+&lt;h2 id=&quot;finishing-the-feature&quot;&gt;Finishing the Feature&lt;/h2&gt;
+
+&lt;p&gt;Somehow—it’s probably your pair’s fault—the deadline is near and your story isn’t anywhere close to complete. It’s time to be a hero. Grab the keyboard (your form should be excellent by now) and start cranking out that code. Tests? We can add those later. Next week, maybe. Refactoring? Pssh, you understand this code. Everyone else should be able to understand it.&lt;/p&gt;
+
+&lt;p&gt;The important thing now is to finish the feature and throw it over the wall for QA to deal with. Push up your changes and—this is important—leave quickly after. The build might break, so you want to be out of there before the failures start to appear.&lt;/p&gt;
+
+&lt;h2 id=&quot;living-the-life&quot;&gt;Living the Life&lt;/h2&gt;
+
+&lt;p&gt;Congratulations! You’ve alienated your team members and made yourself intolerable. You can finally get back to writing code on your own. Now, that does mean when the build breaks they can pin it back on you. However, if you are territorial about the code you work on, it will reach the coveted “black box” status, where failures are common and no one wants to peek inside.&lt;/p&gt;
+
+&lt;h2 id=&quot;converting-to-the-dark-side&quot;&gt;Converting to the Dark Side&lt;/h2&gt;
+
+&lt;p&gt;Of course, you may not be able to dodge pairing forever. If these practices don’t work for you, I suppose you could consider the benefits of pairing and how to be a better pair. It might in fact push you in ways you can’t imagine and greatly improve your career.&lt;/p&gt;
+
+&lt;p&gt;Here’s some reading, just in case:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://c2.com/cgi/wiki?PairProgramming&quot;&gt;http://c2.com/cgi/wiki?PairProgramming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.8thlight.com/malcolm-newsome/2014/05/27/How-Is-Pairing-Working.html&quot;&gt;How is Pairing Working?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.8thlight.com/ben-voss/2013/01/15/how-to-be-a-great-pair.html&quot;&gt;How to be a Great Pair&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.8thlight.com/craig-demyanovich/2011/12/02/why-i-pair-program.html&quot;&gt;Why I Pair Program&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.8thlight.com/arlandis-lawrence/2014/08/03/prideful-programming.html&quot;&gt;Prideful Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 27 Oct 2014 00:00:00 -0500</pubDate>
+        <link>http://8thlight.github.io/2014/10/27/how-to-be-a-terrible-pair/</link>
+        <guid isPermaLink="true">http://8thlight.github.io/2014/10/27/how-to-be-a-terrible-pair/</guid>
+      </item>
+    
+      <item>
+        <title>Professionals Aren&#39;t Self-Taught</title>
+        <description>&lt;p&gt;As kids, we learned to listen and to speak before we learned to read. We started our lives cooing indecipherable nonsense, and slowly adopted the intricate speech patterns of our caretakers until we could assimilate their language and communicate. We met the furry creatures crawling around the floor, and learned associations with the sounds “cat” and “meow” long before we went to school and learned that the string of letters “C-A-T” signified the same thing.&lt;/p&gt;
+
+&lt;p&gt;That’s the way most people learn languages: by interacting with others, slowly decoding the sounds and patterns until they can contribute on their own. Children and adults both learn languages better through audiobooks than written books, and there’s really no better way to learn a language than by immersing yourself in a foreign country and living among native speakers.&lt;/p&gt;
+
+&lt;p&gt;In the mid-20th century, a Japanese violinist named Shin’ichi Suzuki wanted to leverage this same idea on the way he taught music. He developed the &lt;a href=&quot;http://en.wikipedia.org/wiki/Suzuki_method&quot;&gt;Suzuki method&lt;/a&gt;, which aims to teach students to play musical instruments the same way children learn to communicate: by adapting to their environment.&lt;/p&gt;
+
+&lt;p&gt;The primary focus of the Suzuki method is to create an environment in which the student is surrounded by perfect tones. Students attend as many professional concerts as possible, and pay close attention to the orchestra’s tonality. They ingrain this ideal tonality deep into their senses so that it’s automatic; so that anything less than this perfect tonality becomes offensive to their ears—it’s indecipherable nonsense. Their muscle memory is created by this innate sense later, not the other way around.&lt;/p&gt;
+
+&lt;h3 id=&quot;creating-a-learning-environment&quot;&gt;Creating a Learning Environment&lt;/h3&gt;
+&lt;p&gt;We’ve tried to recreate this effect in software by putting our apprentices in a similar type of environment. Our apprentices work alongside and occasionally inside of teams of professionals, observing craftsmen implementing the design patterns, architectures, and frameworks needed to build software systems well. It is the equivalent of perfect tonality—it’s a heightened code sense.&lt;/p&gt;
+
+&lt;p&gt;Apprentices absorb this code sense indirectly, by overhearing conversations between our craftsmen about tools, techniques, and different ways to think about new problems. They observe craftsmen working on problems every day, and use their experiences as a template for their own professional development.&lt;/p&gt;
+
+&lt;p&gt;But our apprentices also receive this code sense directly. They each have a mentor who oversees and guides their professional development. Mentors assign books to read and projects to complete with certain parameters that are designed to strain their weaknesses and reinforce their code sense. Apprentices pair-program with craftsmen on projects, and receive impromptu lessons from craftsmen who have free time and helpful insight into a particular problem.&lt;/p&gt;
+
+&lt;p&gt;During our 8th Light University events, apprentices watch craftsmen and other professionals share lessons that they’ve acquired along their path to mastery. Craftsmen are expected to share their craft, and apprentices get to benefit from both the direct lessons being taught as well as the ancillary benefits of watching another professional present and perform his or her craft.&lt;/p&gt;
+
+&lt;p&gt;Our craftsmen perform daily standup meetings to coordinate with their project team members, and our apprentices do the same with their fellow apprentices. By checking in each day, apprentices can see what others are working on, and connect with other apprentices who are confronting the same difficult problems. They can help each other navigate the plateaus and climb the peaks along their ongoing path toward the perfect code sense.&lt;/p&gt;
+
+&lt;p&gt;Proximity is a key factor in an apprentice’s development. If apprentices are not working closely together, they cannot benefit from the advantages that a proper learning environment provides. They need to interact with each other regularly, and to help push each other toward a heightened code sense in short feedback loops.&lt;/p&gt;
+
+&lt;p&gt;Individually, we all have an imperfect code sense, just like musicians struggle with imperfect tonality. The limitations of our perspective and the perspectives of our coworkers risk having an echo chamber effect. If I hear something that sounds like an A chord and the person next to me agrees that it’s an A chord, it could still have a different frequency.&lt;/p&gt;
+
+&lt;p&gt;Across every craft, perfection is defined externally. It isn’t up to us to define; it’s up to us to discover. By putting a team of apprentices together and embedding them within a culture of professionalism and craftsmanship, our apprenticeship program helps facilitate that discovery process for every apprentice. They are able to observe and absorb craftsmanship, and then use their observations to inform their programming skills and muscle memories. Software craftsmanship is not a lesson that they learn, but a sense that they acquire that helps guide them through their education.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 08 Oct 2014 00:00:00 -0500</pubDate>
+        <link>http://8thlight.github.io/2014/10/08/professionals-not-self-taught/</link>
+        <guid isPermaLink="true">http://8thlight.github.io/2014/10/08/professionals-not-self-taught/</guid>
+      </item>
+    
+      <item>
+        <title>Software Craftsmen Are Arrogant, Slow, and Dogmatic</title>
+        <description>&lt;p&gt;What does it mean to be a software craftsman? You can read the &lt;a href=&quot;http://manifesto.softwarecraftsmanship.org/&quot;&gt;Manifesto for Software Craftsmanship&lt;/a&gt; and draw conclusions; but if you posed that question to different people across the software industry, you’d hear any number of different responses. And to some degree, they’re all true. Descriptions are ultimately bound to perspective, and there appear to be divergent perspectives on the software craftsmanship movement. What follows are three descriptions that are commonly wielded against the software craftsmanship community, accompanied by an explanation of the craftsman’s perspective on the same issue.&lt;/p&gt;
+
+&lt;h3 id=&quot;craftsmen-are-arrogant&quot;&gt;Craftsmen are arrogant.&lt;/h3&gt;
+
+&lt;p&gt;A craftsman is on a lifelong journey toward mastery. Throughout this extended period of professional development, each craftsman is driven by the ideals of perfection. The closer you get to perfection, the closer you are to mastery. The two are inseparable ideals, but only appear as abstract concepts.&lt;/p&gt;
+
+&lt;p&gt;Even so, apprentices and craftsmen alike use deliberate practice methods like Katas and Code Retreats to try to reach this ideal. They refine keystrokes and hammer down syntactical nuances. Simply getting something done isn’t satisfactory to a craftsman in practice—it needs to be done perfectly and proudly. Their focus is fully on minor details, because those create the base from which their skill level can grow.&lt;/p&gt;
+
+&lt;p&gt;Software skill exists on an asymptotic curve. When you first learn something, you make large strides immediately and feel like you’re making serious progress toward perfection. But as time goes on, and as you increase your familiarity with the subject, your progress becomes more incremental. You’re not yet perfect, but the big strides have more distance between them. Yet, the craftsman persists. Even as deliberate practice yields diminishing returns, the craftsman plugs away. From the outside, this can seem like a vain attempt at self-improvement.&lt;/p&gt;
+
+&lt;p&gt;But the entirety of a craftsman’s professional development is contained within that gap between skill level and perfection. As this gap gets smaller and smaller, the craftsman’s focus becomes narrower and narrower.&lt;/p&gt;
+
+&lt;p&gt;Craftsmen are consumed by this gap. They talk about these ideals as if they’re affixed to every project—a piece of fruit hanging from the ceiling just out of reach. They challenge others to climb the walls and jump to try to close this gap too, and they employ hyperbole to justify the importance of seemingly mundane details and practices. “We need to test this remote edge case.” “Why haven’t you refactored this class?” Craftsmen are constantly working toward an ideal, and any ideal other than perfection is offensive. This hyperbole is not necessary, but it comes from a bias.&lt;/p&gt;
+
+&lt;p&gt;This bias creates a communication issue. Craftsmen are so narrowly focused on closing the gap between themselves and mastery that it becomes difficult to consider that others might not share this focus. They sound arrogant because their language is drawn from a different set of assumptions. But at a fundamental level, the craftsman’s assumptions are not derogatory. They are aspirational.&lt;/p&gt;
+
+&lt;h3 id=&quot;craftsmen-are-slow&quot;&gt;Craftsmen are slow.&lt;/h3&gt;
+
+&lt;p&gt;Software craftsmen approach code as both the means and the ends. Accordingly, it’s not enough for a craftsman just to write a program. A craftsman crafts a program—devoting time and energy to reaching an ideal solution at every step in the process. To the untrained observer, this can look very pretentious. In a fast-paced, results-oriented team, a craftsman spends time refactoring working software. This can seem academic or self-indulgent in the face of a deadline. But the reason is both simple and practical.&lt;/p&gt;
+
+&lt;p&gt;As craftsmen, we’ve done enough practice to know that the cost of work has a non-linear relationship to its quality. If you don’t take advantage of an opportunity to refactor and increase the quality of your code early, it will take exponentially longer to refactor and add features later. Your code will have more bugs, and will be difficult to extend when your clients need added functionality the most.&lt;/p&gt;
+
+&lt;p&gt;It is not selfish to maintain this intensity and take this extra time. In fact, it is asserting our expertise. We know software, and we know that taking the time to produce code of a high quality from the beginning will pay major dividends for our clients later.&lt;/p&gt;
+
+&lt;p&gt;As craftsmen, we have a responsibility not to simply patch together an application that will only solve a problem in the short-term. We need to build something trustworthy and adaptable that can grow and evolve with the client’s changing needs. That takes time.&lt;/p&gt;
+
+&lt;h3 id=&quot;craftsmen-are-dogmatic&quot;&gt;Craftsmen are dogmatic.&lt;/h3&gt;
+
+&lt;p&gt;The asymptotic curve toward mastery is not the only curve that exists. Hackers and dabblers can gain experience in the industry, but their progress waxes and wanes with their focus. They take shortcuts when it’s convenient, and it leads to a slippery slope. The first time you neglect to write a test, you increase the likelihood that you’ll neglect to write a test in the future. You’ll develop poor habits, and your skills will slowly deteriorate.&lt;/p&gt;
+
+&lt;p&gt;This is the scariest outcome for craftsmen. Craftsmen always want to improve, to go on an upward trajectory. They want to close the gap between themselves and perfection, and avoiding the pitfalls of convenience is a primary motivation to keep craftsmen disciplined.&lt;/p&gt;
+
+&lt;p&gt;Craftsmen do not falter on their principles. They stick to their guns for the long haul. They push TDD to its Platonic ideal. They do this not because they are brainwashed automatons, but because their principles are built on observable facts that they have seen to be true. They remain disciplined because the danger of losing discipline is profound.&lt;/p&gt;
+
+&lt;p&gt;As craftsmen, we believe in the principle of &lt;a href=&quot;http://blog.8thlight.com/myles-megyesi/2013/03/18/we-are-principled-4.html&quot;&gt;strong opinions held weakly&lt;/a&gt;. Our opinions are derived directly from our experiences, and so we have strong reasons to believe that they are true. This knowledge and these opinions fill in the base of our learning curve—all of our skills and principles are the foundation for any progress we make going forward. To abandon these principles would be to take a step back on our path toward mastery, to insert a dip in our curve. If we lose discipline, we lose our way.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 21 Aug 2014 00:00:00 -0500</pubDate>
+        <link>http://8thlight.github.io/2014/08/21/software-craftsmen-are-arrogant-slow-and-dogmatic/</link>
+        <guid isPermaLink="true">http://8thlight.github.io/2014/08/21/software-craftsmen-are-arrogant-slow-and-dogmatic/</guid>
+      </item>
+    
+      <item>
+        <title>Avoiding the Drift to Low Performance</title>
+        <description>&lt;p&gt;Estimates are a fundamental part of our business. We rely on them to schedule our workflow
+and to communicate honestly and openly with clients. We need them in order to set deadlines
+and goals for large projects. But estimates are human-made, fact-based fictions that we tell
+ourselves in an attempt to understand the future, and there is no universally agreed-upon
+method for formulating these estimates.&lt;/p&gt;
+
+&lt;p&gt;Typically, product owners want estimates to be absolutes that fit into concrete deadlines.
+They want guarantees that remove the uncertainty from the future, because that’s what their
+money is going toward. But when dealing with projects of larger scope, that’s an unrealistic
+ideal. We can’t know how much effort a problem will require or the scope of the solution up
+front.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/paul-pagel/images/2014-07-22-avoiding-the-drift-to-low-performance/01.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Even so, we do our best to meet this demand by using our own experience. You’re probably
+familiar with the old axiom: past performance is the best predictor of future performance.
+It’s the basis behind Mike Cohn’s estimating technique in the extremely popular book Agile
+Estimation and Planning, in which he lays out the method of using historical values to predict
+a team’s velocity on a project.&lt;/p&gt;
+
+&lt;p&gt;This is a relative estimation technique, and craftsmen are generally good at it. Our brains
+can look at a problem and its component parts and compare them to other problems we’ve solved
+in the past.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/paul-pagel/images/2014-07-22-avoiding-the-drift-to-low-performance/02.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While I don’t wholly disagree with Cohn’s ideas, my experience in software has not aligned
+perfectly with this idea. Even relative estimation is an imperfect science that is vulnerable
+to human error. We are prone to biases that affect our perceptions of how much work we completed,
+how much time it will take to finish work in the future, and how one piece of a project compares
+to another. Without checks in place, these variances can play off each other to create a system
+trap.&lt;/p&gt;
+
+&lt;p&gt;What I’ve experienced is more in line with what Donella Meadows defines in her book Thinking In
+Systems as the “drift to low performance.” She explains that “allowing performance standards to
+be influenced by past performance, especially if there is a negative bias in perceiving past
+performance, sets up a reinforcing feedback loop of eroding goals that sets a system drifting
+toward low performance.”&lt;/p&gt;
+
+&lt;p&gt;As an example, Meadows cites the “boiled frog syndrome.” The old story goes that if you dump a
+frog in boiling water, it will feel the scalding temperature and jump out immediately. But if you
+put a frog in lukewarm water and slowly increase the temperature, it won’t notice the scalding
+temperature. It gets warmer and warmer, but never so much warmer than it was a moment prior to
+cause alarm in the frog. Eventually the frog gets boiled, and it has no idea.&lt;/p&gt;
+
+&lt;p&gt;Likewise, while our brains might be efficient at matching levels of complexity from one project
+to the next, they’re not as good at defining how that complexity translates to a fixed or
+absolute value.&lt;/p&gt;
+
+&lt;p&gt;Just about every project I’ve worked on begins the same way. We move at a consistent velocity,
+smooth-sailing through lukewarm water. Sometimes we are a few points up, sometimes a few points
+down, but we usually rebound the next week. Then we encounter the first event that is completely
+unpredictable—a mini &lt;a href=&quot;http://en.wikipedia.org/wiki/Black_swan_theory&quot;&gt;Black Swan&lt;/a&gt; in
+dependency, complexity, or distraction. Due to this, our story is only 90 percent done. We go in
+to the next iteration with a little lower velocity and a little debt to this story. Most likely,
+we’ll finish and everything will go back to normal, right?&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, that’s not usually the case. A task that was difficult to estimate once because of
+hidden complexity usually continues to be difficult. You ask for help, which causes difficulty
+for others, too. Pretty soon, using last week’s velocity to set expectations has the whole team
+completing fewer points, and working twice as hard to dig out of this “expectations gap.” In an
+attempt to meet a fixed deadline, the amount of effort and time in each week becomes relative as
+well. We work longer hours, and our work suffers. This becomes a negative feedback loop, and over
+time creates a clear drift to low performance.&lt;/p&gt;
+
+&lt;p&gt;When we base our estimates entirely on relative measures, our standards fluctuate with our
+performance every week. Meadows suggests a fairly simple way to avoid this trap, though: “Keep
+performance standards absolute.”&lt;/p&gt;
+
+&lt;p&gt;At 8th Light, we have done this by making one point equal approximately four hours worth of work.
+The size of this unit allows us to focus our estimates on the smallest, most predictable pieces of
+a problem, while staying fixed to a standardized and predictable amount of time.&lt;/p&gt;
+
+&lt;p&gt;If we treat this absolute measure as one point on a spectrum, the opposite point is the relative
+measure. The empty space between these two represents our “expectations gap.” It’s the distance
+between what we perceive a problem to require, and what it actually requires.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/paul-pagel/images/2014-07-22-avoiding-the-drift-to-low-performance/03.png&quot; style=&quot;border: none&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Every estimate we make lands somewhere along this spectrum, but this still allows for a fair
+amount of uncertainty. We shrink that uncertainty by employing the PERT estimation method. With
+PERT, each craftsman submits three estimates: an optimistic estimate, reflecting the amount of
+effort required by an ideal and flawless solution; a realistic estimate, reflecting the amount of
+effort the craftsman’s experience has led him or her to expect; and a pessimistic estimate,
+reflecting the amount of effort required if absolutely everything went wrong.&lt;/p&gt;
+
+&lt;p&gt;PERT then applies an algorithm to these three figures to create a weighted realistic estimate.
+This new estimate accounts for biases in both complexity and time, shortening the distance
+between the two and making our estimates more precise.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/paul-pagel/images/2014-07-22-avoiding-the-drift-to-low-performance/04.png&quot; style=&quot;border: none&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By affixing our estimates to a working week made of absolute units of time, we force ourselves to
+jump into the pot of water each week. We don’t sit around all week trying to decide how our
+temperature sits along a relative scale—we jump in and out and take a realistic measure of the
+water’s actual temperature.&lt;/p&gt;
+
+&lt;p&gt;If we fall short of our estimation one week, we jump into the pot of water at our Iteration
+Planning Meeting and we feel the heat. If we try to compensate for our estimates and begin to fall
+into the feedback loop of eroding expectations, the water boils us immediately. There is no slow
+erosion of expectations, because everything is judged against an absolute scale.&lt;/p&gt;
+
+&lt;p&gt;This has proven to be an extremely stable estimation method for us. We are forced to set a
+sustainable pace, and have checks in place to protect us from our biases. There is no good news or
+bad news—there is only news.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://8thlight.github.io/featured/2014/07/22/avoiding-the-drift-to-low-performance/</link>
+        <guid isPermaLink="true">http://8thlight.github.io/featured/2014/07/22/avoiding-the-drift-to-low-performance/</guid>
+      </item>
+    
+  </channel>
+</rss>

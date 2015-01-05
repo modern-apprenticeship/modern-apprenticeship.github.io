@@ -1,0 +1,24 @@
+/* ------------------------------- Colors */
+/* ------------------------------- Buttons */
+/* ------------------------------- Typekits */
+.module-quote {
+  color: white;
+  background: #a7788a;
+  text-align: center;
+  padding: 60px 0;
+  margin-bottom: 40px; }
+  .module-quote p.quote {
+    font-style: italic;
+    font-size: 1.75em;
+    margin: 0 auto;
+    width: 60%; }
+  .module-quote p.quote-author {
+    font-family: "freight-sans-pro", Helvetica, sans-serif;
+    font-weight: 400;
+    margin: 20px auto 0 auto;
+    text-transform: uppercase; }
+
+@media screen and (max-width: 700px) {
+  .module-quote p.quote {
+    line-height: 1.25em;
+    width: 90%; } }

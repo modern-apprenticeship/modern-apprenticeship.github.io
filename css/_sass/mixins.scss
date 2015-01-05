@@ -1,0 +1,69 @@
+/* ------------------------------- Colors */
+
+$body: #ededed;
+$blue: #4b8dbe;
+$red: #d9574b;
+
+$hairline: rgba(0,0,0,0.25);
+
+$grey-medium: #666666;
+$grey-light: #999999;
+
+
+
+$post-text: #444444;
+
+
+/* ------------------------------- Buttons */
+
+@mixin action-button($color, $text-color) {
+  @include sans-serif;
+  background: $color;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 2px solid darken($color, 10%);
+  border-radius: 2px;
+  color: $text-color;
+  font-size: 1em;
+  padding: 10px 20px;
+  transition: all .1s ease-in;
+  &:hover {
+    cursor: pointer;
+    background: darken($color, 10%);
+  }
+}
+
+/* ------------------------------- Typekits */
+
+@mixin sans-serif-light {
+  font-family: "freight-sans-pro", Helvetica, sans-serif;
+  font-weight: 300;
+}
+
+@mixin sans-serif {
+  font-family: "freight-sans-pro", Helvetica, sans-serif;
+  font-weight: 400;
+}
+
+
+@mixin serif-light {
+  font-family: "freight-text-pro", sans-serif;
+  font-weight: 300;
+}
+
+@mixin serif {
+  font-family: "freight-text-pro", sans-serif;
+  font-weight: 400;
+}
+
+@mixin serif-semi {
+  font-family: "freight-text-pro", sans-serif;
+  font-weight: 600;
+}
+
+
+@mixin serif-bold {
+  font-family: "freight-text-pro", sans-serif;
+  font-weight: 700;
+}
