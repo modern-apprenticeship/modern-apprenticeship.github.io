@@ -1,0 +1,31 @@
+---
+---
+@import 'mixins';
+.module-quote {
+  //background: #745a7a;
+  color: white;
+  background: #a7788a;
+  text-align: center;
+  padding: 60px 0;
+  margin-bottom: 40px;
+  p.quote {
+    font-style: italic;
+    font-size: 1.75em;
+    margin: 0 auto;
+    width: 60%;
+  }
+  p.quote-author {
+    @include sans-serif;
+    margin: 20px auto 0 auto;
+    text-transform: uppercase;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .module-quote p.quote {
+    line-height: 1.25em;
+    width: 90%;
+
+  }
+}
+

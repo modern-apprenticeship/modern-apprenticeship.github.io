@@ -1,0 +1,95 @@
+/* ------------------------------- Colors */
+/* ------------------------------- Buttons */
+/* ------------------------------- Typekits */
+.intro {
+  padding: 40px 22px; }
+  .intro h2 {
+    font-family: "freight-text-pro", sans-serif;
+    font-weight: 400;
+    color: #555;
+    font-style: italic;
+    font-size: 1.75em;
+    line-height: 1.25em; }
+
+.posts {
+  overflow: hidden;
+  margin: 20px auto;
+  width: 70%;
+  max-width: 1000px; }
+  .posts a {
+    color: black;
+    width: 100%; }
+    .posts a:hover {
+      background: #f9f9f9;
+      text-decoration: none;
+      cursor: pointer; }
+  .posts .post.large,
+  .posts .post.featured {
+    font-size: 100%;
+    width: 98%; }
+  .posts .post {
+    display: inline-block;
+    float: left;
+    margin: 0 1% 20px 1%;
+    padding: 20px;
+    width: 48%; }
+    .posts .post .post-title {
+      font-family: "freight-text-pro", sans-serif;
+      font-weight: 400;
+      font-style: italic;
+      font-size: 1.75em;
+      line-height: 1.25em; }
+    .posts .post .post-author, .posts .post .post-date {
+      color: #d9574b;
+      font-size: 90%;
+      display: inline-block; }
+    .posts .post .post-tagline {
+      font-family: "freight-sans-pro", Helvetica, sans-serif;
+      font-weight: 300;
+      color: #666;
+      font-size: 1.5em;
+      letter-spacing: -0.02em;
+      margin-bottom: 10px; }
+
+@media screen and (max-width: 700px) {
+  .posts {
+    font-size: 80%;
+    width: 98%; }
+
+  .post {
+    font-size: 100% !important;
+    padding: 10px !important;
+    width: 100% !important; } }
+/* ----------------------------------------------------- Archives */
+.tag-lists {
+  font-family: "freight-sans-pro", Helvetica, sans-serif;
+  font-weight: 300;
+  margin: 20px auto;
+  max-width: 1000px;
+  overflow: hidden;
+  width: 70%;
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  -column-count: 2; }
+  .tag-lists .tag-group {
+    display: inline-block;
+    margin: 0 1% 20px 1%;
+    padding: 22px;
+    width: 100%; }
+    .tag-lists .tag-group ul {
+      list-style: none; }
+    .tag-lists .tag-group .tagged-post a {
+      color: #444; }
+      .tag-lists .tag-group .tagged-post a:hover {
+        color: #000;
+        text-decoration: none; }
+
+@media screen and (max-width: 700px) {
+  .tag-lists {
+    width: 98%;
+    -webkit-column-count: 1;
+    -moz-column-count: 1;
+    column-count: 1; }
+    .tag-lists .tag-group {
+      margin: 0;
+      padding: 10px; } }

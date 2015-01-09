@@ -1,0 +1,13 @@
+# Site settings
+title: "Modern Apprenticeship"
+email: "paul@8thlight.com"
+description: "Modern Apprenticeship blog by Paul Pagel"
+baseurl: ""
+url: "http://8thlight.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+sass:
+  sass_dir: /css/_sass
