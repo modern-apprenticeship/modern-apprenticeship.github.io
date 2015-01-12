@@ -5,6 +5,17 @@ layout: default
   <header class="post-header">
     <h1 class='post-title'>{{ page.title }}</h1>
     <h3 class='post-details'>{% if page.author %}{{ page.author }}{% endif %} {{ page.date | date: "%B %-d, %Y" }}</h3>
+    <ul class='post-shares'>
+      <li class='twitter'>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-via="gorilla_studios">Tweet</a>
+      </li>
+      <li>
+        <div class="fb-share-button" data-href="{{ post.url | prepend: site.baseurl }}" data-layout="button_count"></div>
+      </li>
+      <li class='google'>
+        <div class="g-plus" data-action="share" data-annotation="bubble"></div>
+      </li>
+    </ul>
   </header>
 
   <article class="post-content">
@@ -27,17 +38,6 @@ layout: default
         <div class="g-plus" data-action="share" data-annotation="bubble"></div>
       </li>
     </ul>
-    <div class='divider'>
-      <p>Related</p>
-    </div>
-
-    {% for tag in page.tags %}
-    <h3>{{ tag }}</h3>
-    <ul>
-      <li>###Need logic to spit out articles with related tags###</li>
-    </ul>
-    {% endfor %}
-
   </footer>
 </div>
 
