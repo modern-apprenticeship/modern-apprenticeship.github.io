@@ -4,7 +4,7 @@ title: "Using the Availability Bias"
 tags: ["Learning"]
 author: "Paul Pagel"
 tagline: "Our brains can work against us in several different ways. By learning to anticipate their shortcomings, we can leverage their shortcomings for our benefit."
-category: featured
+
 ---
 
 The more you practice using a certain tool or skill, the more comfortable you become performing it. You build up muscle memory, and the motions become automatic. You can focus on more challenging topics. If you can repeat keystrokes without exhausting conscious effort on writing software, then you have that much more energy and attention available to devote to more advanced and abstract concerns. 
